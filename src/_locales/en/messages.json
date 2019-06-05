@@ -211,6 +211,9 @@
   "wordSeparator": {
     "message": "Word Separator"
   },
+  "commonRequirements": {
+    "message": "Common Password Requirements"
+  },
   "minNumbers": {
     "message": "Minimum Numbers"
   },
